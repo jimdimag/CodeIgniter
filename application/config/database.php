@@ -49,9 +49,9 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'bookcell_adbcos';
-$db['default']['password'] = 'L2u0X1i0A9o';
-$db['default']['database'] = 'bookcell_BCOS';
+$db['default']['username'] = 'REMOVED FOR SECURITY';
+$db['default']['password'] = 'REMOVED FOR SECURITY';
+$db['default']['database'] = 'REMOVED FOR SECURITY';
 $db['default']['dbdriver'] = 'mysqli';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
